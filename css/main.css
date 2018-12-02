@@ -4665,3 +4665,9 @@ h1, h2, h3, h4 {
 /* ipad and tablet */
 /* ipad and tablet */
 /* phone */
+
+@media (max-width: 785px) { 
+  .navbar-sidebar{
+    visibility: hidden;
+  }
+}
